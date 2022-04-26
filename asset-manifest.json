@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ReactJS-Gif-Aplication/static/css/main.8f5b6bc5.css",
+    "main.js": "/ReactJS-Gif-Aplication/static/js/main.c74c5356.js",
+    "static/media/fondo.jfif": "/ReactJS-Gif-Aplication/static/media/fondo.a77ce61447d8a1a98390.jfif",
+    "index.html": "/ReactJS-Gif-Aplication/index.html",
+    "main.8f5b6bc5.css.map": "/ReactJS-Gif-Aplication/static/css/main.8f5b6bc5.css.map",
+    "main.c74c5356.js.map": "/ReactJS-Gif-Aplication/static/js/main.c74c5356.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f5b6bc5.css",
+    "static/js/main.c74c5356.js"
+  ]
+}
